@@ -1,2 +1,2 @@
 # electricity_rl
-Reinforcement Learning Agent Competition Model of French Electricity Market
+Reinforcement Learning Agent Competition Model of Power markets
