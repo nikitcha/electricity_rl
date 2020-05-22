@@ -17,7 +17,7 @@ In command prompt: my_env_name\Scripts\activate
 - pip install maplotlib
 - pip install gym
 
-##### To view the note book:
+##### To view the notebook:
 In command prompt with activated environment type: jupyter lab
 <br> Browse to Git folder and open notebook
 
