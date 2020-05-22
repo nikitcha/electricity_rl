@@ -15,6 +15,7 @@ In command prompt: my_env_name\Scripts\activate
 - pip install tensorflow==2.0.0
 - pip install jupyterlab
 - pip install maplotlib
+- pip install gym
 
 ##### To view the note book:
 In command prompt with activated environment type: jupyter lab
