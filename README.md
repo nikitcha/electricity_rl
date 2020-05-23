@@ -23,4 +23,10 @@ In command prompt with activated environment type: jupyter lab
 <br> Browse to Git folder and open notebook
 
 
+##### How to merge Notebooks:
+For convenience install the Jupyter extension: jupyter-git. This will also install 'nbdime' which is used for merging Notebooks.
+<br> In the command line: nbdime config-git --enable --global
+<br> Then: git mergetool --tool=nbdime
+This will launch the merge tool in the browser. Once finished - close, then Git Commit and Push.
+
 
