@@ -16,6 +16,7 @@ In command prompt: my_env_name\Scripts\activate
 - pip install jupyterlab
 - pip install maplotlib
 - pip install gym
+- pip install cvxpy
 
 ##### To view the notebook:
 In command prompt with activated environment type: jupyter lab
