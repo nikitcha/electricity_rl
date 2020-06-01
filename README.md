@@ -29,4 +29,14 @@ For convenience install the Jupyter extension: jupyter-git. This will also insta
 <br> Then: git mergetool --tool=nbdime
 This will launch the merge tool in the browser. Once finished - close, then Git Commit and Push.
 
+### Related Papers
+https://papers.nips.cc/paper/2171-reinforcement-learning-to-play-an-optimal-nash-equilibrium-in-team-markov-games.pdf
+http://www.jmlr.org/papers/volume4/hu03a/hu03a.pdf
+http://www.ifaamas.org/Proceedings/aamas09/pdf/01_Full%20Papers/12_65_FP_0103.pdf
+https://ideas.repec.org/a/kap/compec/vyid10.1007_s10614-020-09982-4.html
+https://papers.tinbergen.nl/18056.pdf
+https://www.researchgate.net/publication/223704242_Q-learning_agents_in_a_Cournot_oligopoly_model
+http://econ.ucsb.edu/~oprea/imitateEX.pdf
+
+
 
